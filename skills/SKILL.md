@@ -1,12 +1,7 @@
-
-	---
-	name: veo-3.1-prompting
-	description: Expert guidance for Google Veo 3.1 video generation. Use when the user wants to (1) create text-to-video or image-to-video prompts, (2) optimize for cinematic quality and native audio syncing, (3) maintain character consistency via reference images, (4) structure multi-shot sequences with timestamp prompting, (5) use First/Last Frame interpolation, (6) select between standard and fast generation modes, or (7) troubleshoot physics, motion, or audio issues in generated video.
-	---
-	
-	# Veo 3.1 Prompting
-	
-	## Core Capabilities
+name: veo-3.1-prompting
+description: Expert guidance for Google Veo 3.1 video generation. Use when the user wants to (1) create text-to-video or image-to-video prompts, (2) optimize for cinematic quality and native audio syncing, (3) maintain character consistency via reference images, (4) structure multi-shot sequences with timestamp prompting, (5) use First/Last Frame interpolation, (6) select between standard and fast generation modes, or (7) troubleshoot physics, motion, or audio issues in generated video.
+# Veo 3.1 Prompting
+## Core Capabilities
 	
 	Veo 3.1 generates video with native audio synthesis and advanced physical realism. Key specifications:
 	
